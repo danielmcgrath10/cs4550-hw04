@@ -1,3 +1,4 @@
+# Got inspiration for this from GeeksforGeeks  
 defmodule Practice.Calc do
   def parse_float(text) do
     {num, _} = Float.parse(text)

@@ -1,0 +1,35 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Daniel McGrath
+
+2. What hostname did you deploy your app to?
+hw04.danny-mcgrath.com
+
+3. What's the URL of your git for this assignment?
+https://github.com/danielmcgrath10/cs4550-hw04
+
+4. How much of the functionality did you complete?
+I completed all of the work associated with getting the Elixir app to work.
+
+5. Did you successfully deploy? If not, what's broken?
+My deploy is working, but I didn't get the systemd file up.
+
+6. How comfortable do you feel with Elixir now?
+I feel so-so comfortable with it. There is still a lot for me to learn.
+
+7. Which parts of this assignment did you have trouble with, if any?
+I had the most trouble conceptually with the infix-postfix-prefix evaluation method.
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
