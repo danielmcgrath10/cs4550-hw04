@@ -10,7 +10,6 @@ use Mix.Config
 # which you should run after static files are built and
 # before starting your production server.
 
-# TODO: Fix your hostname in the URL below
 config :practice, PracticeWeb.Endpoint,
   url: [host: "hw04.danny-mcgrath.com", port: 80],
   cache_static_manifest: "priv/static/cache_manifest.json"
