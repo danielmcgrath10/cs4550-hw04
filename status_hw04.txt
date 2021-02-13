@@ -14,7 +14,7 @@ https://github.com/danielmcgrath10/cs4550-hw04
 I completed all of the work associated with getting the Elixir app to work.
 
 5. Did you successfully deploy? If not, what's broken?
-My deploy is working, but I didn't get the systemd file up.
+My deploy is working
 
 6. How comfortable do you feel with Elixir now?
 I feel so-so comfortable with it. There is still a lot for me to learn.
